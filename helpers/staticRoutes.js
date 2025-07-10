@@ -41,7 +41,7 @@ router.get("/", (req, res) => {
       </style>
     </head>
     <body>
-      <h1>🚀 Welcome to LMS Node.js Backend</h1>
+      <h1>🚀 Welcome to LMS Node.js </h1>
       <p>Server is up & running in <strong>${process.env.NODE_ENV || 'development'}</strong> mode.</p>
     </body>
     </html>
