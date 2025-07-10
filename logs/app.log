@@ -1,0 +1,536 @@
+8/7/2025, 3:22:26 pm INFO: Server running on port 5000
+8/7/2025, 3:23:29 pm INFO: API Called: GET /api/user/course-lessons-with-batch-sessions/302/407
+8/7/2025, 3:23:29 pm INFO: API Called: GET /api/user/course-overview-on-profile/302/407
+8/7/2025, 3:23:29 pm INFO: API Called: GET /api/comments/blog-comments/302
+8/7/2025, 3:24:07 pm INFO: API Called: GET /api/admin/get-all-students
+8/7/2025, 3:24:07 pm INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+8/7/2025, 3:24:07 pm INFO: API Called: GET /uploads/users/users_1751463604664.jpg
+8/7/2025, 3:24:07 pm INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+8/7/2025, 3:24:07 pm INFO: API Called: GET /uploads/users/users_1751266512928.png
+8/7/2025, 3:24:07 pm INFO: API Called: GET /uploads/users/users_1751437450486.jpg
+8/7/2025, 3:24:09 pm INFO: API Called: GET /api/admin/courses?page=1
+8/7/2025, 3:24:10 pm INFO: API Called: GET /api/batches/courses-with-batches?page=1
+8/7/2025, 3:24:12 pm INFO: API Called: GET /api/admin/get-all-instructors?page=1
+8/7/2025, 3:24:12 pm INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+8/7/2025, 3:24:13 pm INFO: API Called: GET /api/admin/paginated-six-blogs?page=1
+8/7/2025, 3:24:13 pm INFO: API Called: GET /uploads/blogs/blogs_1751519475639.png
+8/7/2025, 3:24:13 pm INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+8/7/2025, 3:24:13 pm INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+8/7/2025, 3:24:14 pm INFO: API Called: GET /api/admin/contactMessages?page=1
+8/7/2025, 3:24:16 pm INFO: API Called: GET /api/admin/coursePayments?page=1
+8/7/2025, 3:24:18 pm INFO: API Called: GET /api/admin/get-all-carousels?page=1
+8/7/2025, 3:24:18 pm INFO: API Called: GET /uploads/carousel/carousel_1751958660771.jpg
+8/7/2025, 3:24:20 pm INFO: API Called: GET /api/admin/get-admin-profile-details
+9/7/2025, 10:57:25 am INFO: Server running on port 5000
+9/7/2025, 10:57:30 am INFO: Server running on port 5000
+9/7/2025, 10:57:52 am INFO: Server running on port 5000
+9/7/2025, 11:00:59 am INFO: Server running on port 5000
+9/7/2025, 11:02:37 am INFO: Server running on port 5000
+9/7/2025, 11:02:53 am INFO: Server running on port 5000
+9/7/2025, 11:03:37 am INFO: Server running on port 5000
+9/7/2025, 11:04:41 am INFO: Server running on port 5000
+9/7/2025, 11:05:33 am INFO: API Called: GET /
+9/7/2025, 11:06:48 am INFO: Server running on port 5000
+9/7/2025, 11:06:52 am INFO: Server running on port 5000
+9/7/2025, 11:07:01 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:07:01 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:07:01 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:07:01 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:07:01 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:07:01 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:07:01 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:07:01 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:07:01 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:07:01 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:07:01 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:07:01 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:07:01 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:07:01 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:07:01 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:07:01 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:07:13 am INFO: Server running on port 5000
+9/7/2025, 11:07:32 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:07:33 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:07:42 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:07:42 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:07:45 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:07:45 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:07:45 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:07:45 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:07:45 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:07:45 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:07:45 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:07:45 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:07:45 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:07:45 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:07:45 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:07:45 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:07:45 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:07:45 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:07:45 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:07:46 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:08:08 am INFO: Server running on port 5000
+9/7/2025, 11:08:13 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:08:13 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:08:13 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:08:13 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:08:13 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:08:13 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:08:13 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:08:13 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:08:13 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:08:14 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:08:14 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:08:14 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:08:14 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:08:14 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:08:14 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:08:14 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:08:14 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:08:14 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:10:14 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:10:14 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:10:14 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:10:14 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:10:14 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:10:14 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:10:14 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:10:14 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:10:31 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:10:31 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:10:31 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:10:31 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:10:31 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:10:31 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:10:31 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:10:31 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:10:31 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:10:31 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:10:31 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:10:31 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:10:31 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:10:31 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:10:31 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:10:31 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:10:43 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:10:43 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:10:43 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:10:43 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:10:43 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:10:43 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:10:43 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:10:43 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:10:43 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:10:44 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:10:44 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:10:44 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:10:44 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:10:44 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:10:44 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:10:44 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:11:22 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:11:22 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:11:22 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:11:22 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:11:22 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:11:22 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:11:22 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:11:22 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:11:22 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/courses/student-feedback
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/courses/top
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/comments/top-course-reviews-in-home-page
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/courses/upcoming
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/coursesBundles/top-3
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/courses/topInstructors
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/blogs/top-three
+9/7/2025, 11:11:23 am INFO: API Called: GET /api/courses/home-page-carousels
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:15:32 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:24:23 am INFO: Server running on port 5000
+9/7/2025, 11:29:10 am INFO: Server running on port 5000
+9/7/2025, 11:31:38 am INFO: Server running on port 5000
+9/7/2025, 11:34:08 am INFO: Server running on port 5000
+9/7/2025, 11:35:09 am INFO: Server running on port 5000
+9/7/2025, 11:36:30 am INFO: Server running on port 5000
+9/7/2025, 11:38:36 am INFO: Server running on port 5000
+9/7/2025, 11:38:41 am INFO: Server running on port 5000
+9/7/2025, 11:38:45 am INFO: Server running on port 5000
+9/7/2025, 11:38:53 am INFO: Server running on port 5000
+9/7/2025, 11:38:57 am INFO: Server running on port 5000
+9/7/2025, 11:39:01 am INFO: Server running on port 5000
+9/7/2025, 11:39:05 am INFO: Server running on port 5000
+9/7/2025, 11:39:32 am INFO: Server running on port 5000
+9/7/2025, 11:39:45 am INFO: Server running on port 5000
+9/7/2025, 11:39:56 am INFO: Server running on port 5000
+9/7/2025, 11:40:00 am INFO: Server running on port 5000
+9/7/2025, 11:41:43 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:41:44 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:41:44 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:41:44 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:41:45 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:41:45 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:41:45 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:41:53 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:41:54 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:41:54 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:41:54 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:41:54 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:41:54 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:41:54 am INFO: API Called: GET /uploads/blogs/blogs_1751519475639.png
+9/7/2025, 11:42:17 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:42:17 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:42:17 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:42:17 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:42:17 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:42:17 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:42:17 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:42:20 am INFO: API Called: GET /
+9/7/2025, 11:42:21 am INFO: API Called: GET /
+9/7/2025, 11:42:21 am INFO: API Called: GET /
+9/7/2025, 11:42:21 am INFO: API Called: GET /
+9/7/2025, 11:42:22 am INFO: API Called: GET /
+9/7/2025, 11:42:50 am INFO: Server running on port 5000
+9/7/2025, 11:42:58 am INFO: Server running on port 5000
+9/7/2025, 11:43:02 am INFO: Server running on port 5000
+9/7/2025, 11:45:13 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:45:13 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:45:13 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:45:14 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:45:14 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:45:14 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:45:14 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:45:21 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:45:21 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:45:21 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:45:21 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:45:21 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:45:21 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:45:21 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:45:22 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:46:59 am INFO: Server running on port 5000
+9/7/2025, 11:46:59 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:46:59 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:46:59 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:47:00 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:47:00 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:47:00 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:47:00 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:47:20 am INFO: Server running on port 5000
+9/7/2025, 11:47:46 am INFO: Server running on port 5000
+9/7/2025, 11:47:51 am INFO: Server running on port 5000
+9/7/2025, 11:48:56 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:48:56 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:48:56 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:48:56 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:48:56 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:48:56 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:48:56 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:49:03 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:49:03 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:49:03 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:49:03 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:49:03 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:49:03 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:49:03 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:51:42 am INFO: Server running on port 5000
+9/7/2025, 11:52:22 am INFO: Server running on port 5000
+9/7/2025, 11:52:49 am INFO: Server running on port 5000
+9/7/2025, 11:52:55 am INFO: Server running on port 5000
+9/7/2025, 11:53:02 am INFO: Server running on port 5000
+9/7/2025, 11:53:06 am INFO: Server running on port 5000
+9/7/2025, 11:53:10 am INFO: Server running on port 5000
+9/7/2025, 11:53:16 am INFO: Server running on port 5000
+9/7/2025, 11:53:18 am INFO: Server running on port 5000
+9/7/2025, 11:53:56 am INFO: API Called: GET /
+9/7/2025, 11:54:02 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:54:02 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:54:02 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:54:02 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:54:02 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:54:02 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:54:03 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:54:03 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:54:03 am INFO: API Called: GET /uploads/users/users_1751959039627.jpeg
+9/7/2025, 11:54:03 am INFO: API Called: GET /uploads/users/users_1751437097903.jpeg
+9/7/2025, 11:54:03 am INFO: API Called: GET /uploads/users/users_1751266512928.png
+9/7/2025, 11:54:03 am INFO: API Called: GET /uploads/blogs/blogs_1751445986513.webp
+9/7/2025, 11:54:03 am INFO: API Called: GET /uploads/blogs/blogs_1751446047811.jpg
+9/7/2025, 11:54:03 am INFO: API Called: GET /uploads/instructors/instructors_1751612836960.png
+9/7/2025, 11:54:17 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:55:20 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:56:51 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:56:59 am INFO: API Called: GET /uploads/courses/courses_1751518710245.png
+9/7/2025, 11:58:10 am INFO: Server running on port 5000
+9/7/2025, 11:58:14 am INFO: Server running on port 5000
+9/7/2025, 11:59:28 am INFO: Server running on port 5000
+9/7/2025, 11:59:31 am INFO: Server running on port 5000
+9/7/2025, 12:00:50 pm INFO: Server running on port 5000
+9/7/2025, 12:00:56 pm INFO: API Called: GET /u
+9/7/2025, 12:02:17 pm INFO: Server running on port 5000
+9/7/2025, 12:02:49 pm INFO: API Called: GET /
+9/7/2025, 12:02:59 pm INFO: API Called: GET /jhs
+9/7/2025, 12:03:09 pm INFO: Server running on port 5000
+9/7/2025, 12:03:10 pm INFO: API Called: GET /jhs
+9/7/2025, 12:03:58 pm INFO: API Called: GET /
+9/7/2025, 12:05:02 pm INFO: Server running on port 5000
+9/7/2025, 12:05:03 pm INFO: API Called: GET /
+9/7/2025, 12:05:07 pm INFO: API Called: GET /jd
+9/7/2025, 12:05:16 pm INFO: API Called: GET /
+9/7/2025, 12:05:22 pm INFO: Server running on port 5000
+9/7/2025, 12:05:27 pm INFO: API Called: GET /
+9/7/2025, 12:05:27 pm INFO: API Called: GET /
+9/7/2025, 12:05:27 pm INFO: API Called: GET /
+9/7/2025, 12:05:28 pm INFO: API Called: GET /
+9/7/2025, 12:05:31 pm INFO: API Called: GET /js
+9/7/2025, 12:05:34 pm INFO: API Called: GET /
+9/7/2025, 12:07:04 pm INFO: Server running on port 5000
+9/7/2025, 12:07:08 pm INFO: Server running on port 5000
+9/7/2025, 12:07:09 pm INFO: Server running on port 5000
+9/7/2025, 12:07:30 pm INFO: Server running on port 5000
+9/7/2025, 12:07:38 pm INFO: Server running on port 5000
+9/7/2025, 12:08:39 pm INFO: Server running on port 5000
+9/7/2025, 12:08:41 pm INFO: Server running on port 5000
+9/7/2025, 12:09:03 pm INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 12:12:18 pm INFO: Server running on port 5000
+9/7/2025, 12:12:19 pm INFO: Server running on port 5000
+9/7/2025, 12:13:01 pm INFO: Server running on port 5000
+9/7/2025, 12:13:05 pm INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 12:13:06 pm INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 12:13:36 pm INFO: API Called: GET /
+9/7/2025, 12:13:36 pm INFO: API Called: GET /
+9/7/2025, 12:13:37 pm INFO: API Called: GET /
+9/7/2025, 12:14:17 pm INFO: Server running on port 5000
+9/7/2025, 12:14:24 pm INFO: API Called: GET /
+9/7/2025, 12:14:40 pm INFO: API Called: GET /
+9/7/2025, 12:14:40 pm INFO: API Called: GET /favicon.ico
+9/7/2025, 12:14:54 pm INFO: Server running on port 5000
+9/7/2025, 12:14:55 pm INFO: API Called: GET /
+9/7/2025, 12:15:58 pm INFO: Server running on port 5000
+9/7/2025, 12:18:39 pm INFO: API Called: GET /health
+9/7/2025, 12:18:48 pm INFO: API Called: GET /
+9/7/2025, 12:19:32 pm INFO: API Called: GET /
+9/7/2025, 12:19:32 pm INFO: API Called: GET /
+9/7/2025, 12:19:33 pm INFO: API Called: GET /
+9/7/2025, 12:19:36 pm INFO: API Called: GET /hs
+9/7/2025, 12:19:38 pm INFO: API Called: GET /
+9/7/2025, 12:19:40 pm INFO: API Called: GET /
+9/7/2025, 12:41:02 pm INFO: Server running on port 5000
+9/7/2025, 12:41:12 pm INFO: Server running on port 5000
+9/7/2025, 12:41:14 pm INFO: Server running on port 5000
+9/7/2025, 12:41:19 pm INFO: Server running on port 5000
+9/7/2025, 12:41:25 pm INFO: Server running on port 5000
+9/7/2025, 12:41:26 pm INFO: Server running on port 5000
+9/7/2025, 12:42:27 pm INFO: Server running on port 5000
+9/7/2025, 12:42:35 pm INFO: Server running on port 5000
+9/7/2025, 12:44:29 pm INFO: API Called: POST /api/admin/register
+9/7/2025, 12:54:14 pm INFO: API Called: GET /
+9/7/2025, 1:05:04 pm INFO: API Called: POST /api/admin/register
+9/7/2025, 2:05:18 pm INFO: API Called: GET /
+9/7/2025, 2:05:18 pm INFO: API Called: GET /
+9/7/2025, 2:05:19 pm INFO: API Called: GET /
+9/7/2025, 2:05:19 pm INFO: API Called: GET /
+9/7/2025, 2:05:19 pm INFO: API Called: GET /
+9/7/2025, 2:05:19 pm INFO: API Called: GET /
+9/7/2025, 2:05:19 pm INFO: API Called: GET /
+9/7/2025, 2:05:23 pm INFO: API Called: GET /api
+9/7/2025, 2:05:29 pm INFO: API Called: GET /
+9/7/2025, 2:12:23 pm INFO: Server running on port 5000
+9/7/2025, 2:12:34 pm INFO: Server running on port 5000
+9/7/2025, 2:12:48 pm INFO: Server running on port 5000
+9/7/2025, 2:20:04 pm INFO: Server running on port 5000
+9/7/2025, 2:20:13 pm INFO: API Called: POST /api/admin/register
+9/7/2025, 2:20:13 pm WARN: Duplicate entry 'skillzmap@admin.com' for key 'admin.email'
+9/7/2025, 2:20:45 pm INFO: Server running on port 5000
+9/7/2025, 2:20:58 pm INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 2:21:55 pm INFO: Server running on port 5000
+9/7/2025, 2:21:57 pm INFO: Server running on port 5000
+9/7/2025, 2:22:00 pm INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 2:22:16 pm INFO: Server running on port 5000
+9/7/2025, 2:22:18 pm INFO: Server running on port 5000
+9/7/2025, 2:22:21 pm INFO: Server running on port 5000
+9/7/2025, 2:22:23 pm INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 2:22:55 pm INFO: Server running on port 5000
+9/7/2025, 2:22:59 pm INFO: Server running on port 5000
+9/7/2025, 2:23:14 pm INFO: Server running on port 5000
+9/7/2025, 2:23:16 pm INFO: Server running on port 5000
+9/7/2025, 2:23:23 pm INFO: API Called: GET /
+9/7/2025, 2:23:23 pm INFO: Hits for /: 1
+9/7/2025, 2:23:24 pm INFO: API Called: GET /
+9/7/2025, 2:23:24 pm INFO: Hits for /: 2
+9/7/2025, 2:23:24 pm INFO: API Called: GET /
+9/7/2025, 2:23:24 pm INFO: Hits for /: 3
+9/7/2025, 2:23:24 pm INFO: API Called: GET /
+9/7/2025, 2:23:24 pm INFO: Hits for /: 4
+9/7/2025, 2:23:24 pm INFO: API Called: GET /
+9/7/2025, 2:23:24 pm INFO: Hits for /: 5
+9/7/2025, 2:23:29 pm INFO: API Called: GET /j
+9/7/2025, 2:23:29 pm INFO: Hits for /j: 1
+9/7/2025, 2:23:33 pm INFO: API Called: GET /
+9/7/2025, 2:23:33 pm INFO: Hits for /: 6
+9/7/2025, 2:23:44 pm INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 2:23:49 pm INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 2:24:35 pm INFO: Server running on port 5000
+9/7/2025, 2:24:39 pm INFO: Server running on port 5000
+9/7/2025, 2:24:42 pm INFO: Server running on port 5000
+9/7/2025, 2:25:09 pm INFO: Server running on port 5000
+9/7/2025, 2:25:25 pm INFO: Server running on port 5000
+9/7/2025, 2:26:14 pm INFO: Server running on port 5000
+9/7/2025, 2:26:20 pm INFO: Server running on port 5000
+9/7/2025, 2:26:24 pm INFO: Server running on port 5000
+9/7/2025, 2:27:24 pm INFO: Server running on port 5000
+9/7/2025, 2:27:48 pm INFO: Server running on port 5000
+9/7/2025, 2:28:38 pm INFO: Server running on port 5000
+9/7/2025, 2:28:39 pm INFO: Server running on port 5000
+9/7/2025, 2:28:44 pm INFO: Server running on port 5000
+9/7/2025, 2:28:51 pm INFO: API Called: GET /
+9/7/2025, 2:28:52 pm INFO: API Called: GET /
+9/7/2025, 2:28:53 pm INFO: API Called: GET /
+9/7/2025, 2:28:53 pm INFO: API Called: GET /
+9/7/2025, 2:28:53 pm INFO: API Called: GET /
+9/7/2025, 2:28:53 pm INFO: API Called: GET /
+9/7/2025, 2:28:53 pm INFO: API Called: GET /
+9/7/2025, 2:28:53 pm INFO: API Called: GET /
+9/7/2025, 2:28:54 pm INFO: API Called: GET /
+9/7/2025, 2:28:54 pm INFO: API Called: GET /
+9/7/2025, 2:28:54 pm INFO: API Called: GET /
+9/7/2025, 2:28:54 pm INFO: API Called: GET /
+9/7/2025, 2:28:54 pm INFO: API Called: GET /
+9/7/2025, 2:29:07 pm INFO: Server running on port 5000
+9/7/2025, 2:29:11 pm INFO: Server running on port 5000
+9/7/2025, 2:29:13 pm INFO: API Called: GET /
+9/7/2025, 2:29:18 pm INFO: Server running on port 5000
+9/7/2025, 2:29:22 pm INFO: Server running on port 5000
+9/7/2025, 2:29:25 pm INFO: API Called: GET /sj
+9/7/2025, 2:29:30 pm INFO: Server running on port 5000
+9/7/2025, 2:29:33 pm INFO: API Called: GET /
+9/7/2025, 2:30:15 pm INFO: Server running on port 5000
+9/7/2025, 2:33:45 pm INFO: Server running on port 5000
+9/7/2025, 2:33:53 pm INFO: Server running on port 5000
+9/7/2025, 2:35:26 pm INFO: Server running on port 5000
+9/7/2025, 2:36:59 pm INFO: Server running on port 5000
+9/7/2025, 2:37:01 pm INFO: Server running on port 5000
+9/7/2025, 2:39:53 pm INFO: Server running on port 5000
+9/7/2025, 2:40:02 pm INFO: Server running on port 5000
+9/7/2025, 2:40:16 pm INFO: Server running on port 5000
+9/7/2025, 2:41:14 pm INFO: Server running on port 5000
+9/7/2025, 2:41:19 pm INFO: Server running on port 5000
+9/7/2025, 2:41:24 pm INFO: Server running on port 5000
+9/7/2025, 2:41:28 pm INFO: Server running on port 5000
+9/7/2025, 2:41:31 pm INFO: Server running on port 5000
+9/7/2025, 2:41:42 pm INFO: Server running on port 5000
+9/7/2025, 2:41:47 pm INFO: Server running on port 5000
+9/7/2025, 2:41:49 pm INFO: Server running on port 5000
+9/7/2025, 2:42:48 pm INFO: Server running on port 5000
+9/7/2025, 2:42:50 pm INFO: Server running on port 5000
+9/7/2025, 2:43:34 pm INFO: Server running on port 5000
+9/7/2025, 2:43:42 pm INFO: Server running on port 5000
+9/7/2025, 2:43:45 pm INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 2:43:53 pm INFO: Server running on port 5000
+9/7/2025, 2:43:59 pm INFO: Server running on port 5000
+9/7/2025, 2:44:01 pm INFO: Server running on port 5000
+9/7/2025, 2:44:06 pm INFO: Server running on port 5000
+9/7/2025, 2:48:46 pm INFO: Server running on port 5000
+9/7/2025, 2:48:48 pm INFO: Server running on port 5000
+9/7/2025, 2:49:14 pm INFO: Server running on port 5000
+9/7/2025, 2:49:18 pm INFO: Server running on port 5000
+9/7/2025, 2:49:23 pm INFO: Server running on port 5000
+9/7/2025, 2:49:38 pm INFO: API Called: GET /api/services/latest-services-home-page
+9/7/2025, 2:50:10 pm INFO: Server running on port 5000
+9/7/2025, 2:51:05 pm INFO: API Called: GET /
+9/7/2025, 2:51:06 pm INFO: API Called: GET /
+9/7/2025, 2:51:06 pm INFO: API Called: GET /
+9/7/2025, 2:51:06 pm INFO: API Called: GET /
+9/7/2025, 2:51:06 pm INFO: API Called: GET /
+9/7/2025, 2:51:06 pm INFO: API Called: GET /
+9/7/2025, 2:54:31 pm INFO: API Called: GET /
+9/7/2025, 2:58:11 pm INFO: Server running on port 5000
+9/7/2025, 2:58:49 pm INFO: Server running on port 5000
+9/7/2025, 2:59:55 pm INFO: Server running on port 5000
+9/7/2025, 3:11:06 pm INFO: API Called: GET /
+9/7/2025, 3:11:06 pm INFO: API Called: GET /
+9/7/2025, 3:11:06 pm INFO: API Called: GET /
+9/7/2025, 3:11:11 pm INFO: API Called: GET /jdj
+9/7/2025, 3:11:15 pm INFO: API Called: GET /
+9/7/2025, 4:55:44 pm INFO: Server running on port 5000
+9/7/2025, 4:55:46 pm INFO: Server running on port 5000
+9/7/2025, 4:55:48 pm INFO: Server running on port 5000
+9/7/2025, 4:55:50 pm INFO: Server running on port 5000
+9/7/2025, 4:55:53 pm INFO: Server running on port 5000
+9/7/2025, 4:56:14 pm INFO: API Called: GET /api/admin/get-all-students?page=1&limit=10&search=anvesh
+9/7/2025, 4:56:19 pm INFO: API Called: GET /api/admin/get-all-students?page=1&limit=10
+9/7/2025, 4:56:53 pm INFO: API Called: GET /api/admin/get-all-students?page=1&limit=100
+9/7/2025, 5:34:23 pm INFO: Server running on port 5000
+9/7/2025, 5:52:18 pm INFO: Server running on port 5000
+9/7/2025, 5:54:46 pm INFO: Server running on port 5000
+9/7/2025, 5:55:18 pm INFO: API Called: POST /api/user/login
+9/7/2025, 5:55:45 pm INFO: API Called: GET /api/user/course-and-emi-details
+9/7/2025, 6:04:47 pm INFO: Server running on port 5000
+9/7/2025, 6:08:44 pm INFO: API Called: GET /api/courses/courses-page-data?page=1&limit=6&category=Pharma+and+Life+Science&sub_category=Pharmacovigilance&sub_category=Advanced+Bioinformatics&sub_category=Clinical+Research&sub_category=Pharmaceutical+Microbiology&sub_category=Clinical+Data+Management&sub_category=Clinical+Data+Science&sub_category=IT-CSV
+9/7/2025, 6:08:46 pm INFO: API Called: GET /api/courses/courses-page-data?page=1&limit=6&category=Pharma+and+Life+Science&sub_category=Pharmacovigilance&sub_category=Advanced+Bioinformatics&sub_category=Clinical+Research&sub_category=Pharmaceutical+Microbiology&sub_category=Clinical+Data+Management&sub_category=Clinical+Data+Science&sub_category=IT-CSV
+9/7/2025, 6:08:49 pm INFO: API Called: GET /api/courses/courses-page-data?page=1&limit=6&category=Pharma+and+Life+Science&sub_category=Pharmacovigilance&sub_category=Advanced+Bioinformatics&sub_category=Clinical+Research&sub_category=Pharmaceutical+Microbiology&sub_category=Clinical+Data+Management&sub_category=Clinical+Data+Science&sub_category=IT-CSV
+9/7/2025, 6:10:14 pm INFO: Server running on port 5000
+9/7/2025, 6:10:16 pm INFO: API Called: GET /api/courses/courses-page-data?page=1&limit=6&category=Pharma+and+Life+Science&sub_category=Pharmacovigilance&sub_category=Advanced+Bioinformatics&sub_category=Clinical+Research&sub_category=Pharmaceutical+Microbiology&sub_category=Clinical+Data+Management&sub_category=Clinical+Data+Science&sub_category=IT-CSV
+9/7/2025, 6:11:48 pm INFO: Server running on port 5000
